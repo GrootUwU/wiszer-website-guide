@@ -10,5 +10,4 @@ description: Gives you a random card
 
 ![This is how the normal drop looks like](https://cdn.discordapp.com/attachments/856521828213194802/884698225200738354/unknown.png)
 
-&#x20;                                ![](<../.gitbook/assets/image (26).png>)This is how a Premium Card Looks Like
-
+![](<../.gitbook/assets/image (30).png>)This is how a Premium Card Looks Like

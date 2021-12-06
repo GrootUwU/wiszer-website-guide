@@ -1,16 +1,13 @@
 ---
-description: Summons a random card
+description: >-
+  Summons a random card and you need to guess the group where the idol belongs
+  to
 ---
 
 # Summon
 
-#### Success Rate: 70%
+Cooldown: 15 Minutes
 
-#### Fail Rate: 30%
+![When a summon is successful the bot will respond as like on the picture and you get the card](<../.gitbook/assets/image (32).png>)
 
-#### Cooldown: 30 minutes
-
-![This is how a success summon looks like](https://cdn.discordapp.com/attachments/872025962001350756/884704147151138816/unknown.png)
-
-![This is how a failed summon looks like](https://cdn.discordapp.com/attachments/872025962001350756/884704470536167424/unknown.png)
-
+![When you guess it incorrectly the bot will respond like on the picture and you will not get the card](<../.gitbook/assets/image (26).png>)
