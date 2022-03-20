@@ -4,9 +4,9 @@ description: This Will Let You View Your Decks
 
 # Name Deck
 
-#### Usage: namedeck1/2/3 \<message>
+#### Usage: namedeck <1/2/3> \<name>
 
-![](<../../.gitbook/assets/image (20).png>)
+#### Aliases: deckname
 
 #### Results Of Doing Above:
 

@@ -8,7 +8,7 @@ description: Lets you see a card you own
 
 #### Viewing a card you own should look like this:
 
-![](<../.gitbook/assets/image (27).png>)
+![](<../../.gitbook/assets/image (27).png>)
 
 #### Viewing a card you don't own will result into this:
 

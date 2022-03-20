@@ -10,4 +10,8 @@ description: Gives you a random card
 
 ![This is how the normal drop looks like](https://cdn.discordapp.com/attachments/856521828213194802/884698225200738354/unknown.png)
 
-![](<../.gitbook/assets/image (30).png>)This is how a Premium Card Looks Like
+#### Patreon Drops looks like normal drop but
+
+* Higher Drop Rate For Events
+* Higher Drop Rate For Wished Cards
+* Lower Cooldown
