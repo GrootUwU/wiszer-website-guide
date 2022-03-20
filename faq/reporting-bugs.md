@@ -9,12 +9,9 @@ description: What is Considered Bugs
 ```
 A bug is an unexpected occurance 
 Example: When you did drop and it replied something other than the image on drop guide
-
 ```
 
-### Examples Of A Bug: (images)
-
-![Doing the Inventory showed "VariableError" instead of the sf9 inventory](https://cdn.discordapp.com/attachments/865155394112454686/885614889203298314/image1.png)
+### Example Of A Bug: (images)
 
 ![Doing drop showed this](https://cdn.discordapp.com/attachments/865155394112454686/885156016436682792/Screen\_Shot\_2021-09-08\_at\_21.28.48.png)
 

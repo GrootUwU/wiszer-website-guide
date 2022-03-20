@@ -8,6 +8,6 @@ description: >-
 
 Cooldown: 20 Minutes
 
-![When a summon is successful the bot will respond as like on the picture and you get the card](<../.gitbook/assets/image (32).png>)
+![When a summon is successful the bot will respond as like on the picture and you get the card](<../.gitbook/assets/image (32) (1).png>)
 
 ![When you guess it incorrectly the bot will respond like on the picture and you will not get the card](<../.gitbook/assets/image (26).png>)

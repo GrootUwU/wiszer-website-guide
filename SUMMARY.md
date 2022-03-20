@@ -5,11 +5,14 @@
 
 ## Commands
 
-* [Page 1](commands/page-1.md)
+* [Quest](commands/quest/README.md)
+  * [Quest Claim](commands/quest/quest-claim.md)
+  * [Restart Quest](commands/quest/restart-quest.md)
+  * [Quest](commands/quest/quest.md)
 * [Other Commands](commands/other-commands/README.md)
   * [List (OUTDATED)](commands/other-commands/list-outdated.md)
   * [Exchange](commands/other-commands/exchange.md)
-  * [Bot](commands/other-commands/bot.md)
+  * [Bot](commands/bot.md)
 * [MarketPlace](commands/marketplace/README.md)
   * [Marketplace](commands/marketplace/marketplace.md)
   * [Sell](commands/marketplace/sell.md)
