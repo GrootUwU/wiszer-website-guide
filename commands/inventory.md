@@ -8,4 +8,4 @@ description: Views the inventory of ther group you want
 
 #### Usage: inventory \<group>\<rarity>
 
-![](<../../.gitbook/assets/image (15).png>)
+![](<../.gitbook/assets/image (15).png>)

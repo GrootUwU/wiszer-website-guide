@@ -8,4 +8,4 @@ description: Gives you a random amount of wiscoins
 
 #### Doing mission should look like this:
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1).png>)

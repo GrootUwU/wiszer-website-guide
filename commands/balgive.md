@@ -8,4 +8,4 @@ description: Gives the mentioned user the amount of wiscoins you placed
 
 #### Usage: balgive <@mention> \<amount>
 
-![](<../../.gitbook/assets/image (10).png>)
+![](<../.gitbook/assets/image (10).png>)

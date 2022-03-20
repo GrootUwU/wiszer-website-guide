@@ -8,4 +8,4 @@ description: gifts the mentioned user the amount inputted
 
 #### You can mass gift up to 3 different cards
 
-![Using the command will look like this](<../../.gitbook/assets/image (11).png>)
+![Using the command will look like this](<../.gitbook/assets/image (11).png>)

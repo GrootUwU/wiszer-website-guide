@@ -17,4 +17,3 @@ description: Views your profile or the user you mentioned
 #### Mentioning a user will result into this:
 
 ![](https://cdn.discordapp.com/attachments/856521828213194802/884752146116018186/unknown.png)
-

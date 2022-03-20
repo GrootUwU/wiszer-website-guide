@@ -9,4 +9,3 @@ description: Sets a card as your favorite card
 #### Usage: favorite \<card code>
 
 ![Favoriting a card looks like this](https://cdn.discordapp.com/attachments/856521828213194802/884739992524554250/unknown.png)
-

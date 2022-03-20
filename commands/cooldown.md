@@ -8,7 +8,7 @@ description: Shows how much time remaining you can do that command again
 
 ❌ Red means you are still is on cooldown
 
-![](<../../.gitbook/assets/image (22) (1).png>)
+![](<../.gitbook/assets/image (22) (1).png>)
 
 ✅ Green means you can do the command
 

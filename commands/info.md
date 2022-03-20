@@ -8,4 +8,4 @@ description: Sends card info
 
 #### Using the command should look like this:
 
-![](<../../.gitbook/assets/image (14).png>)
+![](<../.gitbook/assets/image (14).png>)
