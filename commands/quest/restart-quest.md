@@ -12,4 +12,4 @@ description: restarts your quests tasks and gives you a new one
 
 #### &#x20;
 
-![](<../../.gitbook/assets/image (36).png>)
+![](<../../.gitbook/assets/image (36) (1).png>)

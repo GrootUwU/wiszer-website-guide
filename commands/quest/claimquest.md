@@ -2,10 +2,10 @@
 description: Gives out the rewards on quests
 ---
 
-# Quest Claim
+# Claimquest
 
 #### Usage: !questclaim 1/2/3/4/5/6/7
 
-#### Aliases: qc
+#### Aliases: qc, cq
 
-![](<../../.gitbook/assets/image (32).png>)
+![](<../../.gitbook/assets/image (18).png>)

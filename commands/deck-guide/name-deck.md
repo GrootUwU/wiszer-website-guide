@@ -10,4 +10,4 @@ description: This Will Let You View Your Decks
 
 #### Results Of Doing Above:
 
-![](<../../.gitbook/assets/image (23).png>)
+![](<../../.gitbook/assets/image (36).png>)

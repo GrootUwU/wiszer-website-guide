@@ -6,7 +6,7 @@
 ## Commands
 
 * [Quest](commands/quest/README.md)
-  * [Quest Claim](commands/quest/quest-claim.md)
+  * [Claimquest](commands/quest/claimquest.md)
   * [Restart Quest](commands/quest/restart-quest.md)
   * [Quest](commands/quest/quest.md)
 * [Other Commands](commands/other-commands/README.md)
